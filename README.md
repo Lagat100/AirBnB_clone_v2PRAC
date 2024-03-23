@@ -1,5 +1,6 @@
 0x02. AirBnB clone - MySQL
 
+This involves an udate on the first project
 Background Context
 
 Environment variables will be your best friend for this project!
